@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.Polymorphism.Calculator"/>
+    <fullyQualifiedTypeName name="com.Polymorphism.Animal"/>
+    <fullyQualifiedTypeName name="com.Abstraction.Chicken"/>
+    <fullyQualifiedTypeName name="com.Abstraction.chessPlayer"/>
+    <fullyQualifiedTypeName name="com.Abstraction.Queen"/>
+</qualifiedTypeNameHistroy>
